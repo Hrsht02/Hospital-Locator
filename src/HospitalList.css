@@ -7,7 +7,7 @@
   }
   
   body {
-    background-image: url("img112.jpg");
+    background-image: url("\img112.jpg");
     background-size:contain;
     background-repeat:repeat-y;
     background-color: white;
